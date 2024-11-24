@@ -27,6 +27,7 @@ The **Object Recognition and Weather Forecast App** is a user-friendly applicati
 
 ## 📂 **Documentation**  
 For detailed instructions on using the app and understanding its implementation, refer to the documentation in this repository.  
+For testing, the document containing the link to the APK of the app is present in the repo.
 
 ---
 
